@@ -1,0 +1,11 @@
+{
+  "name": "google-oauth-nodejs-main",
+  "version": "1.0.0",
+  "description": "## What will I lean? * How to get Google OAuth API keys * How OAuth works * How to build an OAuth implementation with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
